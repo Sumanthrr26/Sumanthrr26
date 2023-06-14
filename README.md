@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasbe Alam</h1>
+<h1 align="center">Hi 👋, I'm Sumanth U R</h1>
 
 <p>Solution-focused and detail-oriented aspiring full-stack developer.
 Capable of writing production-ready code using React, Redux, and
