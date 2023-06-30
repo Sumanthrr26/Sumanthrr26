@@ -38,7 +38,7 @@
 
 
 # Portfolio
-- https://sumanthrr26.github.io
+- sumanthrr26.github.io
 
 
 # Tech Stack
